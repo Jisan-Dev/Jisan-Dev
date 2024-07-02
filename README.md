@@ -14,3 +14,28 @@
 <p align="center">
  <img width="60%" src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=0D1117" alt="GitHub Streak" />
 </p>
+
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/HTML.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/css.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/JavaScript.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/python.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/c.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/cpp.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/react.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/redux.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/sass.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/tailwind.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/Bootsrap.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/node.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/express.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/mongo.png"/>
+</p><br/>
