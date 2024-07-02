@@ -26,7 +26,7 @@
 <p align="center">
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/react.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/redux.png"/>
-<span  style="border-radius: 500px; overflow: hidden">
+<span  style="border-radius: '500px'; overflow: hidden">
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/framerui.png"/> 
 </span>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/tailwind.png"/>
