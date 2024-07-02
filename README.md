@@ -4,7 +4,7 @@
 <br />
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-<br />
+
 I'm a passionate web developer dedicated to crafting user-centric web experiences. I bring creativity and technical expertise to every project, ensuring both functionality and visual appeal. I'm constantly seeking opportunities to learn and grow as a software engineer, and I'm excited to collaborate with talented individuals to build innovative web solutions.
 
 ## :chart_with_upwards_trend: Current Stats
