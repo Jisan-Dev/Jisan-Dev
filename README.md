@@ -3,6 +3,6 @@
 </a>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=react&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
