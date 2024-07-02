@@ -26,7 +26,7 @@
 <p align="center">
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/react.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/redux.png"/>
-<img width="52" height="52" src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/framerr.png"/>
+<img width="52" height="52" src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/framer.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/tailwind.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/Bootsrap.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/firebase.png"/>
