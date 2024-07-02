@@ -25,7 +25,7 @@
 </p>
 <p align="center">
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/react.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/redux.png"/>
+<img src="https://imgs.search.brave.com/XnRiCaSIljpdaSwjIVo5L0xHEBiHxRRXQRIEBu7NwNg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9mcmFtZXIt/aWNvbi0yMDQ4eDIw/NDgtbXNhdWFhaW8u/cG5n"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/sass.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/tailwind.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/Bootsrap.png"/>
