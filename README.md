@@ -19,7 +19,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/HTML.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/HTML.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/css.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/JavaScript.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/python.png"/>
