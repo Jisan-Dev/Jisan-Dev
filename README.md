@@ -35,7 +35,7 @@
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/Jisan-Dev/blob/Jisan-Dev/main/icons/node.png"/>
-<img src="https://github.com/Jisan-Dev/blob/Jisan-Dev/main/icons/express.png"/>
-<img src="https://github.com/Jisan-Dev/blob/Jisan-Dev/main/icons/mongo.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/node.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/express.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/mongo.png"/>
 </p><br/>
