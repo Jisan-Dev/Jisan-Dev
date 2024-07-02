@@ -20,22 +20,22 @@
 <br>
 <p align="center">
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/HTML.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/css.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/JavaScript.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/python.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/c.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/cpp.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/css.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/JavaScript.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/python.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/c.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/react.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/redux.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/sass.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/tailwind.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/Bootsrap.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/firebase.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/react.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/redux.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/sass.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/tailwind.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/Bootsrap.png"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/node.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/express.png"/>
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/main/icons/mongo.png"/>
+<img src="https://github.com/Jisan-Dev/blob/Jisan-Dev/main/icons/node.png"/>
+<img src="https://github.com/Jisan-Dev/blob/Jisan-Dev/main/icons/express.png"/>
+<img src="https://github.com/Jisan-Dev/blob/Jisan-Dev/main/icons/mongo.png"/>
 </p><br/>
