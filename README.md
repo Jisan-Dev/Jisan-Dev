@@ -1,7 +1,6 @@
 <a>
 <img src="https://raw.githubusercontent.com/Jisan-Dev/Jisan-Dev/main/images/banner2.png" />
 </a>
-
 <br />
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
