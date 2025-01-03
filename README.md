@@ -22,6 +22,7 @@
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/HTML.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/css.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/JavaScript.png"/>
+ <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/Vectoras.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/react.png"/>
@@ -35,4 +36,5 @@
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/node.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/express.png"/>
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/mongo.png"/>
+ <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/ts.png"/>
 </p><br/>
