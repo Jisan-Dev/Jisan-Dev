@@ -90,12 +90,8 @@
 ### 🌐 Connect
 
 <div>
-  <!-- <span> -->
-    <!-- <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=vercel&logoColor=white" /> -->
-    <!-- <img src="https://img.shields.io/twitter/follow/istiak_jisan98" /> -->
-  <!-- </span> -->
-  <img src="https://img.shields.io/twitter/follow/istiak_jisan98" /> 
- <a href="https://x.com/istiak_jisan98">
+  <!-- <img src="https://img.shields.io/twitter/follow/istiak_jisan98" />  -->
+ <a href="https://x.com/intent/follow?screen_name=istiak_jisan98">
   <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=x&logoColor=white" /> 
  </a>
   <a href="https://www.linkedin.com/in/istiakjisan/">
