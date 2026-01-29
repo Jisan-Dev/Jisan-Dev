@@ -89,16 +89,19 @@
 
 ### 🌐 Connect
 
-<p>
-  <span>
+<div>
+  <!-- <span> -->
     <!-- <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=vercel&logoColor=white" /> -->
-    <img src="https://img.shields.io/twitter/follow/istiak_jisan98" />
-  </span>
+    <!-- <img src="https://img.shields.io/twitter/follow/istiak_jisan98" /> -->
+  <!-- </span> -->
+ <a href="https://x.com/istiak_jisan98">
+  <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=x&logoColor=white" /> 
+ </a>
   <a href="https://www.linkedin.com/in/istiakjisan/">
-    <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=x&logoColor=white" /> 
+    <!-- <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=x&logoColor=white" />  -->
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin" />
   </a>
-</p>
+</div>
 
 ---
 
