@@ -13,9 +13,12 @@
 
 <p align="center">
  <!-- <img width="60%" src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=0D1117" alt="GitHub Streak" /> -->
+ 
  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a> -->
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
+ 
+ <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
  
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Jisan-Dev&theme=tokyo-night"
