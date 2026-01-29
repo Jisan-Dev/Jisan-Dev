@@ -17,6 +17,10 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=Jisan-Dev&theme=tokyo-night"
   width="100%"
 />
+ <img
+  src="https://github-readme-stats.vercel.app/api?username=Jisan-Dev&show_icons=true&theme=tokyonight"
+  width="100%"
+/>
 </p>
 
 ## :computer: Technologies that I know
