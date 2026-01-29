@@ -95,6 +95,7 @@
     <img src="https://img.shields.io/twitter/follow/istiak_jisan98" />
   </span>
   <a href="https://www.linkedin.com/in/istiakjisan/">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=linkedin&logoColor=white" /> 
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin" />
   </a>
 </p>
