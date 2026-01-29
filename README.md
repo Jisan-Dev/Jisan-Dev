@@ -15,12 +15,8 @@
  <img width="60%" src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=0D1117" alt="GitHub Streak" />
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Jisan-Dev&theme=tokyo-night"
-  width="100%"
+  width="60%"
 />
- ![Commits](https://img.shields.io/github/commit-activity/y/Jisan-Dev)
-![Stars](https://img.shields.io/github/stars/Jisan-Dev)
-![Followers](https://img.shields.io/github/followers/Jisan-Dev)
-
 </p>
 
 ## :computer: Technologies that I know
