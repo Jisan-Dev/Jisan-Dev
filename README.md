@@ -16,9 +16,7 @@
  
  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a> -->
  
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Jisan-Dev" alt="GitHub Streak" referrerPolicy="no-referrer" /></a>
- 
- <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) 
  
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Jisan-Dev&theme=tokyo-night"
