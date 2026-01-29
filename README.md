@@ -48,12 +48,12 @@
 </h1>
 
 <p align="center">
-  MERN Stack Developer • Guitarist @ Feral Massacre
+  Frontend focused full-stack developer.
 </p>
 
 <p align="center">
   <sub>
-    Building fast, clean web apps | Writing brutal riffs
+    Building fast, clean & reliable web apps
   </sub>
 </p>
 
@@ -61,10 +61,8 @@
 
 ### ⚔️ About Me
 
-- MERN stack developer focused on **real-world products**
-- Comfortable with **React, Next.js, MongoDB, Firebase**
-- Builder of **InBrief** (news platform) & **trveFeedback** (anonymous messaging)
-- Organizes underground **death metal shows in Bangladesh**
+- **Frontend-heavy fullstack developer**
+- Comfortable with **React, Next.js, NodeJs, MongoDB, PostgreSql**
 - Believes clean code should hit as hard as a breakdown
 
 ---
@@ -72,16 +70,7 @@
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,tailwind,js,git&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jisan-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=Jisan-Dev&theme=tokyonight-duo&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,git&theme=dark" />
 </p>
 
 ---
