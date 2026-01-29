@@ -90,9 +90,10 @@
 ### 🌐 Connect
 
 <p>
-  <a href="https://trve-feedback.vercel.app">
-    <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=vercel&logoColor=white" />
-  </a>
+  <span>
+    <!-- <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=vercel&logoColor=white" /> -->
+    <img src="https://img.shields.io/twitter/follow/istiak_jisan98" />
+  </span>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin" />
   </a>
