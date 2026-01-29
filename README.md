@@ -13,9 +13,9 @@
 
 <p align="center">
  <img width="60%" src="https://streak-stats.demolab.com?user=Jisan-Dev&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=0D1117" alt="GitHub Streak" />
- <img
-  src="https://github-readme-stats.vercel.app/api?username=Jisan-Dev&show_icons=true&theme=tokyonight"
-  width="60%"
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Jisan-Dev&theme=tokyo-night"
+  width="100%"
 />
 </p>
 
