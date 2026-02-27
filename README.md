@@ -98,7 +98,6 @@
   <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=x&logoColor=white" /> 
  </a>
   <a href="https://www.linkedin.com/in/istiakjisan/">
-    <!-- <img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=x&logoColor=white" />  -->
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin" />
   </a>
 </div>
