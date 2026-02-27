@@ -73,7 +73,7 @@
 ### 🧰 Tech Stack
 
 <span>
-  <img width="68" height="68" src="https://img.icons8.com/color/68/typescript.png" alt="typescript"/>
+  <img src="https://img.icons8.com/color/68/typescript.png" alt="typescript"/>
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,git&theme=dark" />
 </span>
 
