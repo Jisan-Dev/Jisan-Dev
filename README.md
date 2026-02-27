@@ -73,7 +73,7 @@
 ### 🧰 Tech Stack
 
 <span>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60%"/>
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,git&theme=dark" />
 </span>
 
