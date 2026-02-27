@@ -73,7 +73,7 @@
 ### 🧰 Tech Stack
 
 <span>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="10%"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,git&theme=dark" />
 </span>
 
