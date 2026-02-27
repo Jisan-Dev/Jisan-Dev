@@ -108,7 +108,7 @@
 </td> -->
 <td align="center" width="20%">
 <span><b><center>Motion/React</center></b></span> 
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/ma.svg"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/ma.svg" width="60" height="60"/>
 </td>
 
 <td align="center" width="20%">
