@@ -91,9 +91,7 @@
 
 <td align="center" width="20%">
 <span><b><center>NextJS</center></b></span> 
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="60" height="60" viewBox="0,0,256,256">
-<g fill="#ffffff" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.33333,5.33333)"><path d="M18.974,31.5c0,0.828 -0.671,1.5 -1.5,1.5c-0.829,0 -1.5,-0.672 -1.5,-1.5v-14c0,-0.653 0.423,-1.231 1.045,-1.43c0.625,-0.198 1.302,0.03 1.679,0.563l16.777,23.704c5.142,-3.628 8.525,-9.602 8.525,-16.337c0,-11 -9,-20 -20,-20c-11,0 -20,9 -20,20c0,11 9,20 20,20c3.192,0 6.206,-0.777 8.89,-2.122l-13.916,-19.662zM28.974,16.5c0,-0.828 0.671,-1.5 1.5,-1.5c0.829,0 1.5,0.672 1.5,1.5v13.84l-3,-4.227z"></path></g></g>
-</svg>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACyUlEQVR4nO2ZO2iUQRDHY+IjaDSnBCRiIVYiBERUsBIFK7GItYWdhVXERxRBJQELhSQWgmDpi3hGLAR7wUoQY6cGjC9O1CCiuTtFfzIwhuEjd7e7t3sX5P6QIju7s/O779vZ2f3a2lpqqaW6BbQDO4BBIA9MAjNAWf9mtO2O9pG+7Qsh8F5gGHiDv6Z1bG8zAl8NjAFF6ldRfeUaFfwB4CPxVRDfKQPv0F8qtUZlrtjBdwITNE4TMmfMX16yR6N1H1gcA6ARr00ljcRYsM3UH6A/NPhu4APNV0HSdgjAZRaOxkJ22BibVCUdBVYA5xz7F712bN3iXTUALAeGHPv/+pfngVUe8wz7FGbTHsHMFWXAPYcxJdN/mQfAa6cCUCtFV5UyY3scFn4ogGibC8ApAgF0/F5NfykATrgA5OsBUB+jiQDGXQCeRwDo1ANMbIBJF4DPIQDAEmCr+b+vQiquB+CTC0A5EECCeQl0mbaByACl1ACiK6ZtEfAgIsCsC8CXOgFE+037Onn0kQDeJ1vEmWDkyLnW2PqNTVLs7pSLOB8BQPRQXiFjv2Zs74A1AQDXXQAGIwGIjhh7F/DC2MYDAI4nKyUqBDMLbM74/mnshz0BtsQu5lwW5FOxmX5njO2HR/BTNYMPKKddS+OLmUuCR/jrbKoDzTF9v89X6fMb2GP8bwC+egQvT6rHGSDRbcRbyTzG/0GPsZe8gjevROxD/d3MHDcdxkgM3d4A5lqlWm0fokPGf65GwpC59wUF71jbh+gbsNH436VrJPwcXAOgI8G96GN7bQhcmKfPrWgfQTTHx4aYS4vAUuCJsd2Oci86z5MYibgmZA/ZafxvAr7r9Uy6z09aWcp1Xwy9AlYa3+uTBZ6ByEX8xHS1IUFX2bGHPGonqyngtPcOmwhECsDtwEn9GPJMT3ZlfUoFbbuhpUdfs2NuqaX/RX8BoXSBraJKSjgAAAAASUVORK5CYII=" width="60" height="60" alt="nextjs">
 </td>
 </tr>
 
@@ -156,7 +154,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Better Auth</center></b></span> 
-<svg role="img" viewBox="0 0 24 24" width="66" fill="#fff" height="66"xmlns="http://www.w3.org/2000/svg"><title>Better Auth</title><path d="M0 3.39v17.22h5.783V15.06h6.434V8.939H5.783V3.39ZM12.217 8.94h5.638v6.122h-5.638v5.548H24V3.391H12.217Z"/></svg>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC5UlEQVR4nO2aPWgUURDHNxK8iKiRqFEQFARtUlpZ2CiKoJhSY5nWI2Jjq2WihaIgtlZpbGIOTWFjFURLzeUSQfwCRS1EJH7lJwPvZDn2dve9md09JD84OLjbee+/b252Pi6K1vhPAbYCo8BVoAE0gS/AD/eS9wvuM/nOaWAw6gWAGnAOmAN+449c8wAYE1tRBQI2ABeBd9jxFrgADJQl4gSwTHEsAceLdqMblMddOXlrEcPAU8rnCbDDSsRed9xV0ZI9aEVsd2G0apaBnaEiBgzc6Z48K4BrRm5WCxFyW7nwV2CXs7XeuYiWmyEhVsulDpvy1LfgmE+YXVQu9jLJDVwGoGUp10PTPbG1jHaxPQL8MrA/kec0JFXQ8ChjjVsGQt6k/vBdAqhB7vZIhpAh4LOBmLNpi8yVEVWAuoGQRlo9EZKKt5G7PJRTSD/w3OD0NycZ14bH83lExNY7gp6TSYY1T1+5u/0+QtyaM0ohU0lGpQQNJah+APYBK4p1Z5KMtsyM+YmZUghpJhkMCYnSVNivFLIJeB8o5GOSQdmUL5MaEbG1xwOFrFgI+QBsMRKyzqXpJkJ8XWvcQkRs/UPAqoVr+WS8z+QuWgpxe5j2FLKgDb+HrUW4PewGvmnDr7Qx8zBdhIjYPi6rgk3OFOU7sKeELuYrTYoymCNpvFKkiDaSoucQ8TMxaXQGHmYUMxujEgD6gMcZQmbTDEhXvBtjZYhoAxwE/qTs50wUUOpKwd8XlQzdI+lraTFlXSyt/U5kSHOgNAXRv36zDIaSqOcxUOuRNmk3Wrk7jlJf0JusAkd9j9aibWPNdS8RMRcLyUiLYj7zB54iZlsPjRWGg0R0DHosOumhLJqlRTL+qsjN5mXYZCIiYRjqW/yEcqfQ2bvMJwp2taZ3iFWezoRLJK2QtKNe1T8gai7lbgTOPeSaWUkAg0OrNVIbAKdcw+2+y5M+xf5UI+9fuDbppBRF0tMy38gaUW/wFzpXp3T0n5xBAAAAAElFTkSuQmCC" width="60" height="60"alt="vercel">
 </td>
 
 <td align="center" width="20%">
