@@ -68,18 +68,16 @@
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/mongo.png"/>
  <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/ts.png"/>
 </p><br/>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
 -->
 
 <table>
 <tbody>
- <tr>
+<tr>
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
@@ -94,11 +92,6 @@
 <td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
 </td>
 </tr>
 
@@ -136,8 +129,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<span><b><center>MATLAB</center></b></span> 
+<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -158,6 +151,7 @@
 
 ---
 -->
+
 ### 🧪 Featured Projects
 
 - **📰 InBrief**  
@@ -188,4 +182,3 @@
 <sub>
   No frameworks were harmed. Only bugs.
 </sub>
-
