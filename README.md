@@ -17,6 +17,8 @@
   </sub>
 </p>
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 ## ⚔️ About Me
 
 👨‍💻 I'm a passionate web developer dedicated to crafting user-centric web experiences. I bring creativity and technical expertise to every project, ensuring both functionality and visual appeal. I'm constantly seeking opportunities to learn and grow as a software engineer, and I'm excited to collaborate with talented individuals to build innovative web solution.
