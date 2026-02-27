@@ -72,10 +72,10 @@
 
 ### 🧰 Tech Stack
 
-<p>
+<span>
   <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/ts.png"/>
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,git&theme=dark" />
-</p>
+</span>
 
 ---
 
