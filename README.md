@@ -75,6 +75,7 @@
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
+-->
 
 <table>
 <tbody>
