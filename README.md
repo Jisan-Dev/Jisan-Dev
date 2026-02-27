@@ -154,7 +154,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Better Auth</center></b></span> 
-<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/ba.svg"/>
+<img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/better-auth.svg" width="60" height="60"/>
 </td>
 
 <td align="center" width="20%">
