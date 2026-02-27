@@ -17,9 +17,15 @@
   </sub>
 </p>
 
-## :book: About Me
+---
+
+## ⚔️ About Me
 
 👨‍💻 I'm a passionate web developer dedicated to crafting user-centric web experiences. I bring creativity and technical expertise to every project, ensuring both functionality and visual appeal. I'm constantly seeking opportunities to learn and grow as a software engineer, and I'm excited to collaborate with talented individuals to build innovative web solution.
+
+- **Frontend-heavy fullstack developer**
+- Comfortable with **React, Next.js, NodeJs, MongoDB, PostgreSql**
+- Believes clean code should hit as hard as a breakdown
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -61,14 +67,6 @@
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/mongo.png"/>
  <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/ts.png"/>
 </p><br/>
-
----
-
-### ⚔️ About Me
-
-- **Frontend-heavy fullstack developer**
-- Comfortable with **React, Next.js, NodeJs, MongoDB, PostgreSql**
-- Believes clean code should hit as hard as a breakdown
 
 ---
 
