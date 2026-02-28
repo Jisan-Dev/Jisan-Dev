@@ -11,11 +11,8 @@
   Frontend focused full-stack developer.
 </h3>
 
-<p align="center">
-  
-    Building fast, clean & reliable web apps
+Building fast, clean & reliable web apps
  
-</p>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
