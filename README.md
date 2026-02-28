@@ -69,23 +69,23 @@
 <table align="center">
 <tbody>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>TypeScript</center></b></span> 
 <!-- <img height=60px src="https://img.icons8.com/fluent/96/swift.png"> -->
 <img src="https://img.icons8.com/color/50/typescript.png" alt="typescript"/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>NextJS</center></b></span> 
 <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60" height="60" alt="nextjs"/>
 </td>
@@ -93,7 +93,7 @@
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>TailwindCSS</center></b></span> 
 <img width="60" height="60" src="https://img.icons8.com/color/60/tailwind_css.png" alt="tailwind_css"/> 
 </td>
@@ -102,63 +102,63 @@
 <span><b><center>Bash</center></b></span>
 <img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
 </td> -->
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>Motion/React</center></b></span> 
 <img src="https://github.com/pheralb/svgl/blob/main/static/library/motion_dark.svg" width="60" height="60"/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>NodeJS</center></b></span> 
 <img width="74" height="74" src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>ExpressJS</center></b></span> 
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>MongoDB</center></b></span> 
 <img width="66" height="66" src="https://img.icons8.com/color/66/mongo-db.png" alt="mongo-db"/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>PostgreSql</center></b></span> 
 <img width="68" height="68" src="https://img.icons8.com/plasticine/68/postgreesql.png" alt="postgreesql"/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>PrismaORM</center></b></span> 
 <img width="60" height="60" src="https://img.icons8.com/fluency/60/prisma-orm.png" alt="prisma-orm"/>
 </td>
 
 <!--  -->
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>JWT</center></b></span> 
 <img width="66" height="66" src="https://img.icons8.com/color/66/java-web-token.png" alt="java-web-token"/> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>Git</center></b></span> 
 <img width="66" height="66" src="https://img.icons8.com/color/66/git.png" alt="git"/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>Better Auth</center></b></span> 
 <img src="https://github.com/Jisan-Dev/Jisan-Dev/blob/main/icons/ba.svg"/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>Copilot</center></b></span> 
 <img width="66" height="66" src="https://img.icons8.com/3d-fluency/66/github-copilot.png" alt="github-copilot"/> 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 <span><b><center>Firebase</center></b></span> 
 <img width="66" height="66" src="https://img.icons8.com/color/66/firebase.png" alt="firebase"/>
 </td>
