@@ -70,7 +70,7 @@
 </p><br/>
 -->
 
-<table>
+<table align="center">
 <tbody>
 <tr>
 <td align="center" width="25%">
