@@ -113,7 +113,7 @@
 
 <td align="center" width="25%">
 <span><b><center>NodeJS</center></b></span> 
-<img width="64" height="64" src="https://img.icons8.com/color/2x/nodejs.png"> 
+<img width="74" height="74" src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 
 <td align="center" width="25%">
