@@ -19,7 +19,7 @@
 
 Hello 👋 I’m a Full-Stack Developer who enjoys turning ideas into practical, production-ready web applications.
  
-I’ve worked across the stack with React, Next.js, Node.js, Express, TypeScript, JavaScript, MongoDB, PostgreSQL, and REST APIs. My experience includes building complete web applications, developing backend APIs, implementing authentication, and creating responsive, user-focused interfaces.
+I’ve worked across the stack with React, Next.js, Node.js, Express, TypeScript, JavaScript, MongoDB, PostgreSQL, and REST APIs. I'm constantly seeking opportunities to learn and grow as a software engineer, and I'm excited to collaborate with talented individuals to build innovative web solution.
  
 My experience includes building full-stack web applications, from responsive user interfaces and REST APIs to authentication, database design, and complex business workflows. I’ve worked on projects involving marketplaces, AI-powered applications, news platforms, and other real-world use cases.
  
