@@ -183,18 +183,6 @@ What I enjoy most is solving real-world problems through clean, maintainable cod
 ---
 -->
 
-### 🧪 Featured Projects
-
-- **📰 InBrief**  
-  News aggregation platform with playlists, streaks & personalization  
-  `React • Redux • MongoDB • Firebase`
-
-- **🕵️ trveFeedback**  
-  Anonymous messaging platform with AI-assisted prompts  
-  `Next.js • Tailwind • MongoDB • SendGrid`
-
----
-
 ### 🌐 Connect
 
 <div>
