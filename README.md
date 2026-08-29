@@ -3,12 +3,12 @@
 </a>
 <br />
 
-<h1 align="center"> 
+<h1 align="center">
   Istiak Kashem Jisan
 </h1>
 
 <h3 align="center">
-  Frontend focused full-stack developer.  
+  Frontend focused full-stack developer.
 </h3>
 
 <p align="center">Building fast, clean & reliable web apps</p>
